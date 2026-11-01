@@ -2,6 +2,10 @@
 
 四个按钮铺满整个视口的极简交互页面。点击任一按钮即可切换它的开关状态（灰色 / 深青色），可多选。
 
+![界面预览：A 与 C 处于开启状态](docs/preview.png)
+
+> 图中 A、C 为开启状态，B、D 为关闭状态。
+
 ## 在线演示
 
 **https://arnoliudaxia.github.io/ABCD-interact/**
